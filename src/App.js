@@ -25,7 +25,7 @@ class App extends Component {
             title: 'O título 3',
             body: 'O corpo 3'
           },
-        ],
+        ]
       })
     }, 5000)
   }
